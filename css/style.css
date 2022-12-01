@@ -49,6 +49,7 @@ button {
 	padding:15px;
 	width:50%;	
 	border-radius: 6px;
+	cursor: pointer;
 }
 
 .left button {
